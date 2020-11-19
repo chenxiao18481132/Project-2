@@ -12,4 +12,4 @@ Goal: Given signals, we want to know which of the two classes the participants b
 
 
 HAR.ipynb is the code for Human activity recognition data. ppg.ipynb is the code for PPG data.
-Those txt files are the data used in HAR.ipynb. The data used in ppg.ipynb are large and need to be kept secret。
+Those txt files are the data used in HAR.ipynb. The data used in ppg.ipynb are large and need to be kept secret.
